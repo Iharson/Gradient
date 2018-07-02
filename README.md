@@ -1,2 +1,2 @@
 # Gradient
-Simple Fradient site
+Simple Gradient site
